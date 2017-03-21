@@ -1,0 +1,21 @@
+执行日期：20170313015058
+************login begin*****************
+执行日期：20170313015058
+array (
+  'hudson_auto_refresh' => 'true',
+  'JSESSIONID' => 'BB196472ABE913133ADFB55A9145D2CC',
+  'PHPSESSID' => '3ie8ksgqih0ou942e67569o6m7',
+  'ECS' => 
+  array (
+    'history' => '9',
+    'visit_times' => '3',
+  ),
+  'ECS_ID' => '23b13d641c49f2ea4f14b73c0322ac2c8a3159f8',
+)
+执行日期：20170313015058
+array (
+  'name' => 'xuanyan',
+  'password' => '123456789',
+  'session' => '',
+  'pagination' => '',
+)
